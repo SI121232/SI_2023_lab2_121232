@@ -1,1 +1,8 @@
-Margarita Stojkovska 121232
+Втора лабораториска вежба по Софтверско инженерство
+
+Маргарита Стојковска, број на индекс:121232
+
+Control Flow Graph
+
+<img width="800" alt="121232" src="https://github.com/SI121232/SI_2023_lab2_121232/assets/103042343/6d5e2918-c13d-4284-82b1-20fbd157bd96">
+
