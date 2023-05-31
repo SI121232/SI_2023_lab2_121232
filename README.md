@@ -4,7 +4,8 @@
 
 2.) Control Flow Graph
 
-<img width="411" alt="THIS" src="https://github.com/SI121232/SI_2023_lab2_121232/assets/103042343/5ef3dfbd-de98-4996-a784-27b743754e26">
+![Lab2](https://github.com/SI121232/SI_2023_lab2_121232/assets/103042343/62976838-3999-4929-80f3-5d34da7c5376)
+
 
 3.) Цикломатска комплексност
 
